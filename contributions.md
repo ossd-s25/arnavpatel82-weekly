@@ -22,10 +22,11 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 02   | [link](http://wikipedia.org/wiki/Special:Contributions/Arnavpatel82)  | wikipedia edit  |   I fixed grammer and readability    |
+| Feb 02   | [link](http://wikipedia.org/wiki/Special:Contributions/Arnavpatel82)  | wikipedia edit  |   I fixed grammer and readability of an article    |
 |  Feb 18   |  [link](https://github.com/ossd-s25/Currency-Unit-Converter/pull/2/commits/c55ca96249f91cd60e273869492c6096f150ec6f)   |  Currency-Unit-Converter feature   |   I added volume measurement conversion to the project   |
 |   Feb 22  |   [link](https://github.com/GoktugOcal/LiveF1/pull/3)  |  LiveF1 docs addition   |  I added the contributors' covenant code of ethics to the project   |
-|   Mar 03  |   [link](https://en.wikipedia.org/wiki/Special:Contributions/Arnavpatel82)  |  wikipedia edit   |  I fixed grammer and readability   |
+|   Mar 03  |   [link](https://en.wikipedia.org/wiki/Special:Contributions/Arnavpatel82)  |  wikipedia edit   |  I fixed grammer and readability of an article   |
+|   Apr 10  |   [link](hhttps://en.wikipedia.org/w/index.php?title=Data_philanthropy&oldid=1285012508)  |  wikipedia edit   |  I fixed grammer and readability of an article   |
 
 
 
