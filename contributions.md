@@ -28,6 +28,7 @@ Replace the first row with your own contribution.
 |   Mar 03  |   [link](https://en.wikipedia.org/wiki/Special:Contributions/Arnavpatel82)  |  wikipedia edit   |  I fixed grammer and readability of an article   |
 |   Apr 10  |   [link](hhttps://en.wikipedia.org/w/index.php?title=Data_philanthropy&oldid=1285012508)  |  wikipedia edit   |  I fixed grammer and readability of an article   |
 |   Apr 14  |   [link](https://github.com/jolpica/jolpica-f1/pull/196)  | jolpica docs addition  |  I updated the development environment setup part of the readme to fix an outdated command   |
+|   Apr 23  |   [link](https://github.com/jolpica/jolpica-f1/discussions/207)  | jolpica discussion post  |  I suggested an idea for how to approach an open issue, pending feedback i will begin on the implementation   |
 
 
 
