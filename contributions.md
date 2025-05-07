@@ -30,6 +30,7 @@ Replace the first row with your own contribution.
 |   Apr 14  |   [link](https://github.com/jolpica/jolpica-f1/pull/196)  | jolpica docs addition  |  I updated the development environment setup part of the readme to fix an outdated command   |
 |   Apr 23  |   [link](https://github.com/jolpica/jolpica-f1/discussions/207)  | jolpica discussion post  |  I suggested an idea for how to approach an open issue, pending feedback i will begin on the implementation   |
 |   Apr 28  |   [link](https://github.com/BUGS-NYU/nyu-cs-wiki/pull/130)  | bugs-nyu docs addition  |  I added a class recommendation to the list of CAS classes   |
+|   May 06  |   [link](https://github.com/alfg/opendrinks/pull/1441)  | opendrinks addition |  I added a new drink to their database: brazilian limeade   |
 
 
 
